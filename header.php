@@ -7,7 +7,7 @@
                  <div class="pbmit-logo-button-area d-flex justify-content-between align-items-center">
                      <div class="site-branding">
                          <h1 class="site-title">
-                             <a href="index.php">
+                             <a href="index.html">
                                  <img class="logo-img" src="images/logo.png" alt="Xinterio">
                              </a>
                          </h1>
@@ -26,7 +26,7 @@
                          <div class="pbmit-header-button">
                              <a href="tel:+1(212)%20255-511">
                                  <span class="pbmit-header-button-text-1">+1(212) 255-511</span>			
-                                 <span class="pbmit-header-button-text-2">tel:+1(212) 255-511</span>		
+                                 <span class="pbmit-header-button-text-2">tel:</span>		
                              </a>
                          </div>
                      </div>
@@ -50,9 +50,9 @@
                                  </span>
                                  <ul class="navigation clearfix">
                                      <li class="dropdown active">
-                                         <a href="index.php">Home</a>
+                                         <a href="index.html">Home</a>
                                          <ul>
-                                             <li class="active"><a href="index.php">Homepage 01</a></li>
+                                             <li class="active"><a href="index.html">Homepage 01</a></li>
                                              <li><a href="homepage-2.html">Homepage 02</a></li>
                                              <li><a href="homepage-3.html">Homepage 03</a></li>
                                              <li><a href="homepage-4.html">Homepage 04</a></li>
@@ -66,7 +66,7 @@
                                      <li class="dropdown">
                                          <a href="#">Pages</a>
                                          <ul>
-                                             <li><a href="about-us.php">About Us</a></li>
+                                             <li><a href="about-us.html">About Us</a></li>
                                              <li><a href="our-history.html">Our History</a></li>
                                              <li><a href="our-team.html">Our Team</a></li>
                                              <li><a href="team-single-details.html">Team Single Details</a></li>
@@ -142,7 +142,7 @@
                                              <li><a href="blog-single-details.html">Blog Single Details</a></li>
                                          </ul>
                                      </li>
-                                     <li><a href="contact-us.php">Contact Us</a></li>
+                                     <li><a href="contact-us.html">Contact Us</a></li>
                                  </ul>
                              </div>
                          </div>
@@ -155,7 +155,7 @@
                          </a>
                      </div>
                      <div class="pbmit-button-box-second">
-                         <a class="pbmit-btn" href="contact-us.php">
+                         <a class="pbmit-btn" href="contact-us.html">
                              <span class="pbmit-button-content-wrapper">
                                  <span class="pbmit-button-text">Book Consult</span>
                              </span>

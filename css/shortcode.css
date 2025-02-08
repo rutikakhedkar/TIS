@@ -7643,7 +7643,7 @@ body {
 	display: flex;
 	align-items: center;
 	height: 900px;
-	background-color: rgba(64, 50, 38, 0.2);
+	background-color: rgba(64, 50, 38, 0.5);
 }
 .pbmit-slider-one .pbmit-sub-title{
 	font-size: 16px;
