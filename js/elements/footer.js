@@ -8,11 +8,11 @@ export function addFooter() {
 								<ul>
 									<li><a href="about-us.html">About Us</a></li>
 									<li><a href="faq.html">FAQ</a></li>
-									<li><a href="our-team.html">Our Team</a></li>
-									<li><a href="our-history.html">Our History</a></li>
+									
+									
 									<li><a href="contact-us.html">Contact Us</a></li>
 									<li><a href="service-details.html">Service</a></li>
-									<li><a href="portfolio-detail-style-1.html">Project</a></li>
+								
 								</ul>
 							</aside>
 						</div>

@@ -25,8 +25,8 @@ export function addHeader() {
                      </div>
                      <div class="pbmit-button-box">
                          <div class="pbmit-header-button">
-                             <a href="tel:+1(212)%20255-511">
-                                 <span class="pbmit-header-button-text-1">+1(212) 255-511</span>			
+                             <a href="tel:+91 9082389569">
+                                 <span class="pbmit-header-button-text-1">+91 9082389569</span>			
                                  <span class="pbmit-header-button-text-2">tel:</span>		
                              </a>
                          </div>
@@ -52,97 +52,22 @@ export function addHeader() {
                                  <ul class="navigation clearfix">
                                      <li class="dropdown active">
                                          <a href="index.html">Home</a>
-                                         <ul>
-                                             <li class="active"><a href="index.html">Homepage 01</a></li>
-                                             <li><a href="homepage-2.html">Homepage 02</a></li>
-                                             <li><a href="homepage-3.html">Homepage 03</a></li>
-                                             <li><a href="homepage-4.html">Homepage 04</a></li>
-                                             <li><a href="homepage-5.html">Homepage 05</a></li>
-                                             <li><a href="homepage-6.html">Homepage 06</a></li>
-                                             <li><a href="homepage-7.html">Homepage 07</a></li>
-                                             <li><a href="homepage-8.html">Homepage 08</a></li>
-                                             <li><a href="homepage-9.html">Homepage 09</a></li>
-                                         </ul>
                                      </li>
                                      <li class="dropdown">
                                          <a href="#">Pages</a>
                                          <ul>
                                              <li><a href="about-us.html">About Us</a></li>
-                                             <li><a href="our-history.html">Our History</a></li>
-                                             <li><a href="our-team.html">Our Team</a></li>
-                                             <li><a href="team-single-details.html">Team Single Details</a></li>
                                              <li><a href="faq.html">Faq</a></li>
                                          </ul>
                                      </li>
                                      <li class="dropdown">
-                                         <a href="#">Services</a>
-                                         <ul>
-                                             <li><a href="service-details.html">Service Detail</a></li>
-                                         </ul>
+                                         <a href="service-details.html">Services</a>
                                      </li>
-                                     <li class="dropdown">
-                                         <a href="#">Portfolio</a>
-                                         <ul>
-                                             <li class="dropdown">
-                                                 <a href="#">Masonry View</a>
-                                                 <ul>
-                                                     <li><a href="portfolio-m-grid-col-2.html">Grid Col 2</a></li>
-                                                     <li><a href="portfolio-m-grid-col-3.html">Grid Col 3</a></li>
-                                                     <li><a href="portfolio-m-grid-col-4.html">Grid Col 4</a></li>
-                                                     <li><a href="portfolio-m-grid-col-wide.html">Grid Wide</a></li>
-                                                 </ul>
-                                             </li>
-                                             <li class="dropdown">
-                                                 <a href="#">Grid View</a>
-                                                 <ul>
-                                                     <li><a href="portfolio-grid-col-2.html">Grid Col 2</a></li>
-                                                     <li><a href="portfolio-grid-col-3.html">Grid Col 3</a></li>
-                                                     <li><a href="portfolio-grid-col-4.html">Grid Col 4</a></li>
-                                                     <li><a href="portfolio-grid-no-gap.html">Grid No Gap</a></li>
-                                                 </ul>
-                                             </li>
-                                             <li class="dropdown">
-                                                 <a href="#">Sortable View</a>
-                                                 <ul>
-                                                     <li><a href="portfolio-sortable-grid-col-2.html">Grid Col 2</a></li>
-                                                     <li><a href="portfolio-sortable-grid-col-3.html">Grid Col 3</a></li>
-                                                     <li><a href="portfolio-sortable-grid-col-4.html">Grid Col 4</a></li>
-                                                 </ul>
-                                             </li>
-                                             <li class="dropdown">
-                                                 <a href="#">Single Detail Style</a>
-                                                 <ul>
-                                                     <li><a href="portfolio-detail-style-1.html">Portfolio Detail Style 1</a></li>
-                                                     <li><a href="portfolio-detail-style-2.html">Portfolio Detail Style 2</a></li>
-                                                 </ul>
-                                             </li>
-                                         </ul>
+                                     <li>
+                                         <a href="portfolio.html">Portfolio</a>
+                                        
                                      </li>
-                                     <li class="dropdown">
-                                         <a href="#">Blogs</a>
-                                         <ul>
-                                             <li class="dropdown">
-                                                 <a href="#">Blog Masonry View</a>
-                                                 <ul>
-                                                     <li><a href="blog-m-grid-col-2.html">Grid Col 2</a></li>
-                                                     <li><a href="blog-m-grid-col-3.html">Grid Col 3</a></li>
-                                                     <li><a href="blog-m-grid-col-4.html">Grid Col 4</a></li>
-                                                     <li><a href="blog-masonry-wide.html">Masonry Wide</a></li>
-                                                 </ul>
-                                             </li>
-                                             <li class="dropdown">
-                                                 <a href="#">Blog Grid View</a>
-                                                 <ul>
-                                                     <li><a href="blog-grid-col-2.html">Grid Col 2</a></li>
-                                                     <li><a href="blog-grid-col-3.html">Grid Col 3</a></li>
-                                                     <li><a href="blog-grid-col-4.html">Grid Col 4</a></li>
-                                                     <li><a href="blog-sortable-grid-view.html">Sortable Grid View</a></li>
-                                                 </ul>
-                                             </li>
-                                             <li><a href="blog-classic.html">Blog Classic</a></li>
-                                             <li><a href="blog-single-details.html">Blog Single Details</a></li>
-                                         </ul>
-                                     </li>
+                                
                                      <li><a href="contact-us.html">Contact Us</a></li>
                                  </ul>
                              </div>
