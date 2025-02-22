@@ -47,8 +47,8 @@ export function addFooter() {
 					<div class="container">
 						<div class="row align-items-center">
 							<div class="col-md-4 pbmit-footer-left">
-								<span class="pbmit-email-text"> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="325a575e5e5d72574a535f425e571c515d5f">contact@theinteriorstudio.com</a></span>
-								<span class="pbmit-phone-number"> +91 90225 09001</span>
+								<span class="pbmit-email-text"> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="325a575e5e5d72574a535f425e571c515d5f">contact@theinteriorsuite.com</a></span>
+								<span class="pbmit-phone-number"> +91  92842 14009</span>
 							</div>
 							<div class="col-md-4 pbmit-footer-right">
 								<span class="pbmit-address">Ambegaon<br>Pune, 411052</span>

@@ -25,8 +25,8 @@ export function addHeader() {
                      </div>
                      <div class="pbmit-button-box">
                          <div class="pbmit-header-button">
-                             <a href="tel:+91 9082389569">
-                                 <span class="pbmit-header-button-text-1">+91 9082389569</span>			
+                             <a href="tel:+91  92842 14009">
+                                 <span class="pbmit-header-button-text-1">+91  92842 14009</span>			
                                  <span class="pbmit-header-button-text-2">tel:</span>		
                              </a>
                          </div>
@@ -53,20 +53,16 @@ export function addHeader() {
                                      <li class="dropdown active">
                                          <a href="index.html">Home</a>
                                      </li>
-                                     <li class="dropdown">
-                                         <a href="#">Pages</a>
-                                         <ul>
-                                             <li><a href="about-us.html">About Us</a></li>
-                                             <li><a href="faq.html">Faq</a></li>
-                                         </ul>
-                                     </li>
-                                     <li class="dropdown">
-                                         <a href="service-details.html">Services</a>
-                                     </li>
-                                     <li>
-                                         <a href="portfolio.html">Portfolio</a>
+                                    
+                                         <li class="dropdown">
+                                         <a href="about-us.html">About us</a>
+                                         </li>
                                         
-                                     </li>
+                                         
+                                         
+                                     
+                                     
+                                    
                                 
                                      <li><a href="contact-us.html">Contact Us</a></li>
                                  </ul>
@@ -83,7 +79,7 @@ export function addHeader() {
                      <div class="pbmit-button-box-second">
                          <a class="pbmit-btn" href="contact-us.html">
                              <span class="pbmit-button-content-wrapper">
-                                 <span class="pbmit-button-text">Book Consult</span>
+                                 <span class="pbmit-button-text">Transform your space</span>
                              </span>
                          </a>
                      </div>
