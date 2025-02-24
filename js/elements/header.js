@@ -9,7 +9,7 @@ export function addHeader() {
                      <div class="site-branding">
                          <h1 class="site-title">
                              <a href="index.html">
-                                 <img class="logo-img" src="images/logo.png" alt="Xinterio">
+                                 <img class="logo-img" src="images/logo.png" alt="The Interior Suite">
                              </a>
                          </h1>
                          <div class="pbmit-sticky-corner  pbmit-top-right-corner">
