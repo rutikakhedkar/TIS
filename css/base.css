@@ -442,7 +442,8 @@ INDEX:
      color: var(--pbmit-global-color);
 }
 body .pbmit-color-blackish{
-	color: var(--pbmit-blackish-color);
+	
+    color: var(--pbmit-blackish-color);
 }
  body .pbmit-bg-color-white{
 	 background-color: var(--pbmit-white-color);
