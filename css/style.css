@@ -337,6 +337,10 @@
     position: relative;
     display: block;
 }
+.pbmit-element-title-wlc
+{
+	color: #fff !important;
+}
 .blog-btn{
 	text-align: right;
 	padding-right: 35px;
