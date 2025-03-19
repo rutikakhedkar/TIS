@@ -1,5 +1,5 @@
 export function addHeader() {
-    document.body.insertAdjacentHTML("afterbegin", `
+ document.body.insertAdjacentHTML("afterbegin", `
  <header class="site-header header-style-1">
  <div class="pbmit-header-overlay">
      <div class="pbmit-main-header-area">
@@ -50,7 +50,7 @@ export function addHeader() {
                                      </svg>
                                  </span>
                                  <ul class="navigation clearfix">
-                                     <li class="dropdown active">
+                                     <li class="dropdown">
                                          <a href="index.html">Home</a>
                                      </li>
                                     
@@ -91,4 +91,13 @@ export function addHeader() {
  
 
 </header>`);
+// Add active class to the current page link
+const currentPage = window.location.pathname.split("/").pop();
+const navLinks = document.querySelectorAll(".navigation li a");
+
+navLinks.forEach(link => {
+    if (link.getAttribute("href") === currentPage) {
+        link.parentElement.classList.add("active");
+    }
+});
 }
