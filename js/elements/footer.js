@@ -12,6 +12,9 @@ export function addFooter() {
 									
 									<li><a href="contact-us.html">Contact Us</a></li>
 									<li><a href="service-details.html">Service</a></li>
+
+									<li><a href="privacy-policy.html">Privacy Policy</a></li>
+									<li><a href="contact-us.html">Blogs</a></li>
 								
 								</ul>
 							</aside>
@@ -46,13 +49,8 @@ export function addFooter() {
         <div class="container">
             <ul class="pbmit-social-links d-flex justify-content-center gap-3">
                 <li class="pbmit-social-li pbmit-social-facebook">
-                    <a title="Facebook" href="#" target="_blank">
+                    <a title="Facebook" href="https://www.facebook.com/share/198peq9SGC/" target="_blank">
                         <span><i class="pbmit-base-icon-facebook-f"></i></span>
-                    </a>
-                </li>
-                <li class="pbmit-social-li pbmit-social-twitter">
-                    <a title="Twitter" href="#" target="_blank">
-                        <span><i class="pbmit-base-icon-twitter-2"></i></span>
                     </a>
                 </li>
                 <li class="pbmit-social-li pbmit-social-linkedin">
@@ -61,7 +59,7 @@ export function addFooter() {
                     </a>
                 </li>
                 <li class="pbmit-social-li pbmit-social-instagram">
-                    <a title="Instagram" href="#" target="_blank">
+                    <a title="Instagram" href="https://www.instagram.com/the_interior_suite?utm_source=qr&igsh=MWN5Z2djcmlhdWIzbg==" target="_blank">
                         <span><i class="pbmit-base-icon-instagram"></i></span>
                     </a>
                 </li>

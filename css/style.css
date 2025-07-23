@@ -66,6 +66,32 @@
 	border-radius: 30px;
 	padding: 160px 0px 100px 0px;
 }
+
+
+    .privacy-policy-container {
+        display: flex;
+        justify-content: center;
+        padding: 10px 10px;
+    }
+
+    .privacy-policy-content {
+        max-width: 800px;
+        width: 100%;
+        font-size: 16px;
+        line-height: 1.8;
+        color: #333;
+		margin-top: 15px;
+    }
+
+    .privacy-policy-content h2 {
+        font-size: 20px;
+        margin-top: 30px;
+        font-weight: bold;
+    }
+
+    .privacy-policy-content p {
+        margin-bottom: 15px;
+    }
 .service-one .pbmit-service-highlight h2 {
     left: 0;
     right: 0;
