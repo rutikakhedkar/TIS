@@ -2,7 +2,7 @@ export function addFooter() {
     document.body.insertAdjacentHTML("beforeend", `<footer class="site-footer footer-style-1 pbmit-bg-color-secondary">
 			<div class="footer-wrap pbmit-footer-widget-area">
 				<div class="container">
-					<div class="row">
+					<div class="row" >
 						<div class="col-md-4">
 							<aside class="widget pbmit-two-column-menu">
 								<ul>
@@ -31,13 +31,15 @@ export function addFooter() {
 						<div class="col-md-4">
 							<aside class="widget pbmit-two-column-menu m-6">
 								<div class="row align-items-center">
-							    <div class="col-md-4 pbmit-footer-left">
+							    <div class=" pbmit-footer-left">
 								<span class="pbmit-email-text"> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="325a575e5e5d72574a535f425e571c515d5f">contact@theinteriorsuite.com</a></span>
 								<span class="pbmit-phone-number"> +91  92842 14009</span>
 							    </div>
 								<div class="row align-items-center">
-							    <div class="col-md-4 pbmit-footer-left">
-									<span class="pbmit-address">Ambegaon<br>Pune, 411052</span>							
+							    <div class=" pbmit-footer-left">
+									<span class="pbmit-address">Malhar Apartment, Outhouse Anantkrupa Society, Paud Rd, near Janata Sahakari Bank, Anant Kurpa Society,
+									 Madhav Baug, Shivthirth Nagar, Kothrud,
+									  <br>Pune, Maharashtra,411038</span>							
 							    </div>
 							</aside>
 						</div>
